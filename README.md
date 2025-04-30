@@ -15,3 +15,6 @@
 
 #### Шаблон мониторинга CPU
 ![Настройка шаблона CPU](screenshots/CPU.png)
+
+### Дашборд
+![Дашборд мониторинга](screenshots/my%20board.png)
