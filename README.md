@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Шаблон мониторинга "Задание 1"](zadanie1.png)
+![Шаблон мониторинга "Задание 1"](screenshots/zadanie1.png)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![Настройка хостов](zadanie2.png)
+![Настройка хостов](screenshots/zadanie2.png)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-![Настройка шаблона Linux by Zabbix Agent](zadanie3.png)
+![Настройка шаблона Linux by Zabbix Agent](screenshots/zadanie3.png)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-![Дашборд "Задание 4"](zadanie4.png)
+![Дашборд "Задание 4"](screenshots/zadanie4.png)
 
 </div>
 
