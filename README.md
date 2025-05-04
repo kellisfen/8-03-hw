@@ -55,7 +55,7 @@
 
 <div align="center">
 
-![Дашборд "Задание 4"](zadanie4.png)
+![Дашборд "Задание 4"](screenshots/zadanie4.png)
 
 </div>
 
